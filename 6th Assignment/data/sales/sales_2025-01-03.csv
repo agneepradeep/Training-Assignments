@@ -1,0 +1,5 @@
+transaction_id,transaction_timestamp,store_id,product_id,quantity,unit_price,discount,total_amount,currency
+TXN1012,2025-01-03 09:30:00,ST01,P1003,2,300,0,600,INR
+TXN1013,2025-01-03 10:00:00,ST02,P1001,1,500,0,500,INR
+TXN1014,2025-01-03 11:00:00,ST03,P1002,2,1200,50,2350,INR
+TXN0999,2025-01-01 08:45:00,ST01,P1001,1,500,0,500,INR

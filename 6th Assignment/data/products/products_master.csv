@@ -1,0 +1,5 @@
+product_id,product_name,category,brand,standard_price
+P1001,Wireless Mouse,Electronics,LogiTech,500
+P1002,Mechanical Keyboard,Electronics,KeyPro,1200
+P1003,USB-C Hub,Accessories,Hubify,300
+P1005,Noise Cancelling Headphones,Electronics,SoundMax,2500
